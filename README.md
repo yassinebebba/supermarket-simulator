@@ -3,7 +3,7 @@ This is a supermarket simulator that takes random customer products and plots th
 
 the code is heavily commented.
 
-you could add more products in the csv file, you can use excel to edit it too.
+you could add more products in the csv file.
 
 required libraries:
 
